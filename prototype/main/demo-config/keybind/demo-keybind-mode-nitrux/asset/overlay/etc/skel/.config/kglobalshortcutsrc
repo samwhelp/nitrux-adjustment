@@ -198,17 +198,21 @@ view_zoom_out=Meta+-,Meta+-,Zoom Out
 
 [org.kde.dolphin.desktop]
 _k_friendly_name=Dolphin
-_launch=Alt+Shift+F,Meta+E,Dolphin
+_launch=none,Meta+E,Dolphin
+
+[org.kde.index.desktop]
+_k_friendly_name=Index
+_launch=Alt+Shift+F,none,Index
 
 [org.kde.kate.desktop]
 _k_friendly_name=Kate
-_launch=Alt+Shift+E,none,Kate
+_launch=none,none,Kate
 
 [org.kde.konsole.desktop]
 NewTab=none,none,Open a New Tab
 NewWindow=none,none,Open a New Window
 _k_friendly_name=Konsole
-_launch=Alt+Return\tAlt+Shift+A\tAlt+Shift+T,Ctrl+Alt+T,Konsole
+_launch=Alt+Shift+T,Ctrl+Alt+T,Konsole
 
 [org.kde.krunner.desktop]
 RunClipboard=Alt+Shift+F2,Alt+Shift+F2,Run command on clipboard contents
@@ -218,6 +222,10 @@ _launch=Alt+F2\tSearch,Alt+Space\tAlt+F2\tSearch,KRunner
 [org.kde.kwrite.desktop]
 _k_friendly_name=KWrite
 _launch=Ctrl+Alt+E,none,KWrite
+
+[org.kde.nota.desktop]
+_k_friendly_name=Nota
+_launch=Alt+Shift+E,none,Nota
 
 [org.kde.plasma.emojier.desktop]
 _k_friendly_name=Emoji Selector
@@ -232,6 +240,10 @@ RectangularRegionScreenShot=Ctrl+Print,Meta+Shift+Print,Capture Rectangular Regi
 WindowUnderCursorScreenShot=Shift+Print,Meta+Ctrl+Print,Capture Window Under Cursor
 _k_friendly_name=Spectacle
 _launch=Alt+Print,Print,Spectacle
+
+[org.kde.station.desktop]
+_k_friendly_name=Station
+_launch=Alt+Return\tAlt+Shift+A,none,Station
 
 [org.kde.yakuake.desktop]
 _k_friendly_name=Yakuake
@@ -266,7 +278,6 @@ activate task manager entry 6=Meta+6,Meta+6,Activate Task Manager Entry 6
 activate task manager entry 7=Meta+7,Meta+7,Activate Task Manager Entry 7
 activate task manager entry 8=Meta+8,Meta+8,Activate Task Manager Entry 8
 activate task manager entry 9=Meta+9,Meta+9,Activate Task Manager Entry 9
-activate widget 3=Alt+F1\tMeta+Space,none,Activate Application Launcher Widget
 clear-history=none,none,Clear Clipboard History
 clipboard_action=none,Meta+Ctrl+X,Automatic Action Popup Menu
 cycle-panels=Meta+Alt+P,Meta+Alt+P,Move keyboard focus between panels
