@@ -1,0 +1,17 @@
+[PlasmaTransientsConfig]
+PreloadWeight=42
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=26
+
+[PlasmaViews][Panel 4]
+alignment=132
+floating=1
+panelVisibility=2
+
+[PlasmaViews][Panel 4][Defaults]
+minLength=498
+thickness=52
+
+[PlasmaViews][Panel 4][Horizontal2560]
+minLength=498
