@@ -12,7 +12,7 @@ toolBarFont=Sans Serif,11,-1,5,50,0,0,0,0,0
 Theme=Luv
 
 [KDE]
-LookAndFeelPackage=org.kde.breezedark.desktop
+LookAndFeelPackage=org.kde.nitrux.dark.desktop
 ShowDeleteCommand=true
 SingleClick=false
 
