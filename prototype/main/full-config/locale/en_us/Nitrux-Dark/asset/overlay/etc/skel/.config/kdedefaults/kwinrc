@@ -1,0 +1,13 @@
+[TabBox]
+DesktopLayout=org.kde.nitrux.dark.desktop
+DesktopListLayout=org.kde.nitrux.dark.desktop
+LayoutName=coverswitch
+
+[Windows]
+Placement=Centered
+RollOverDesktops=true
+
+[org.kde.kdecoration2]
+NoPlugin=false
+library=org.kde.mauideco
+theme=Nitrux
