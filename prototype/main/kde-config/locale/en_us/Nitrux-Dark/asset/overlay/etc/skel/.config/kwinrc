@@ -68,3 +68,9 @@ LayoutName=coverswitch
 [Windows]
 Placement=Centered
 RollOverDesktops=true
+
+[org.kde.kdecoration2]
+ButtonsOnLeft=
+ButtonsOnRight=
+library=org.kde.mauideco
+theme=Nitrux
