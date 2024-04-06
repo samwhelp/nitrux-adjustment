@@ -1,0 +1,15 @@
+gtk-theme-name="Breeze"
+gtk-enable-animations=1
+gtk-primary-button-warps-slider=0
+gtk-toolbar-style=0
+gtk-menu-images=0
+gtk-button-images=0
+gtk-cursor-theme-size=24
+gtk-cursor-theme-name="nitrux_snow_cursors"
+gtk-icon-theme-name="Luv"
+gtk-font-name="Switzer,  10"
+# created by KDE Plasma, vie. mar. 26 15:03:45 2021
+#
+
+gtk-alternative-button-order = 1
+
