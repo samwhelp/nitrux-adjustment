@@ -14,6 +14,7 @@
 * [maui](#maui)
 * [gtk2](#gtk2)
 * [gtk3](#gtk3)
+* [micro](#micro)
 
 
 
@@ -57,6 +58,15 @@
 | [~/.config/gtk-3.0/gtk.css](./asset/overlay/etc/skel/.config/gtk-3.0/gtk.css) |
 | [~/.config/gtk-3.0/vte-terminal.css](./asset/overlay/etc/skel/.config/gtk-3.0/vte-terminal.css) |
 | [~/.config/gtk-3.0/colors.css](./asset/overlay/etc/skel/.config/gtk-3.0/colors.css) |
+
+
+
+
+### micro
+
+| Config File Path |
+| --- |
+| [~/.config/micro/settings.json](./asset/overlay/etc/skel/.config/micro/settings.json) |
 
 
 
