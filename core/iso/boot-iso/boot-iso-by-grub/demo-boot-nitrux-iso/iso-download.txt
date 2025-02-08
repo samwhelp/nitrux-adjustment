@@ -1,1 +1,1 @@
-https://sourceforge.net/projects/nitruxos/files/Release/ISO/nitrux-nx-desktop-plasma-1e97f6ac-amd64.iso
+https://nxos.org/ftp_up/nitrux-nx-desktop-plasma-19c70056-amd64.iso
