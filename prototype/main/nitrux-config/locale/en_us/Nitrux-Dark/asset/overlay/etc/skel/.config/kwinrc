@@ -71,7 +71,7 @@ Placement=Centered
 RollOverDesktops=true
 
 [org.kde.kdecoration2]
-ButtonsOnLeft=
-ButtonsOnRight=
+ButtonsOnLeft=M
+ButtonsOnRight=IAX
 library=org.kde.mauideco
 theme=Nitrux
