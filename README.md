@@ -12,7 +12,7 @@
 | [Nitrux Adjustment](https://samwhelp.github.io/nitrux-adjustment/) | [GitHub](https://github.com/samwhelp/nitrux-adjustment) |
 
 
-> [Keybind Cheatsheet](https://samwhelp.github.io/nitrux-kde-plasma-adjustment/read/cheatsheet/keybind.html)
+> [Keybind Cheatsheet](https://samwhelp.github.io/nitrux-adjustment/read/cheatsheet/keybind.html)
 
 
 
@@ -29,7 +29,7 @@
 
 | Adjustment |
 | ---------- |
-| [Nitrux 3.4.0](https://github.com/samwhelp/nitrux-adjustment/tree/main/prototype/main/full-config/locale/en_us/Nitrux-Dark) |
+| [Nitrux Config](https://github.com/samwhelp/nitrux-adjustment/tree/main/prototype/main/full-config/locale/en_us/Nitrux-Dark) |
 
 
 
