@@ -1,6 +1,6 @@
 
 
-# Nitrux Kde Plasma 按鍵綁定
+# Nitrux 按鍵綁定
 
 
 ## 快捷鍵

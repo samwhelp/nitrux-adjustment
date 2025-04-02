@@ -1,6 +1,6 @@
 
 
-# Nitrux Kde Plasma Keybindings
+# Nitrux Keybindings
 
 
 ## Hotkey

@@ -2,7 +2,7 @@
 
 yad --width=1000 --height=600 \
 --center \
---title="Nitrux Kde Plasma Keybindings" \
+--title="Nitrux Keybindings" \
 --no-buttons \
 --list \
 --column=Keybind: \

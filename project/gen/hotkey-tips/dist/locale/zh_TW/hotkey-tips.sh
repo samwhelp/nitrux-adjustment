@@ -2,7 +2,7 @@
 
 yad --width=1000 --height=600 \
 --center \
---title="Nitrux Kde Plasma 按鍵綁定" \
+--title="Nitrux 按鍵綁定" \
 --no-buttons \
 --list \
 --column=按鍵綁定: \
