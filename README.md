@@ -24,7 +24,7 @@
 
 | Adjustment |
 | ---------- |
-| [Nitrux 3.4.0](https://github.com/samwhelp/nitrux-adjustment/tree/main/prototype/main/full-config/locale/en_us/Nitrux-Dark) |
+| [Nitrux Config](https://github.com/samwhelp/nitrux-adjustment/tree/main/prototype/main/full-config/locale/en_us/Nitrux-Dark) |
 
 
 
