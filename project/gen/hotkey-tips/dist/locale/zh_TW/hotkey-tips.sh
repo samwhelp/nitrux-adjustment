@@ -21,15 +21,15 @@ yad --width=1000 --height=600 \
 "Alt + Shift + d" "開啟 Rofi Drun" "#ffffff" "Monospace 16" \
 "Alt + Shift + r" "開啟 Rofi Run" "#cccccc" "Monospace 16" \
 "Alt + Shift + w" "開啟 Rofi Window" "#ffffff" "Monospace 16" \
-"Alt + Shift + f" "開啟檔案管理器 (dolphin)" "#cccccc" "Monospace 16" \
+"Alt + Shift + f" "開啟檔案管理器 (index)" "#cccccc" "Monospace 16" \
 "Alt + Shift + g" "開啟檔案管理器 (pcmanfm-qt)" "#ffffff" "Monospace 16" \
-"Alt + Shift + e" "開啟 (kate)" "#cccccc" "Monospace 16" \
+"Alt + Shift + e" "開啟 (nota)" "#cccccc" "Monospace 16" \
 "Alt + Shift + b" "開啟網頁瀏覽器 (firefox)" "#ffffff" "Monospace 16" \
 "Alt + Shift + s" "開啟系統設定 (systemsettings)" "#cccccc" "Monospace 16" \
-"Alt + Enter" "開啟 Terminal (konsole)" "#ffffff" "Monospace 16" \
-"Alt + Shift + a" "開啟 Terminal (konsole)" "#cccccc" "Monospace 16" \
+"Alt + Enter" "開啟 Terminal (station)" "#ffffff" "Monospace 16" \
+"Alt + Shift + a" "開啟 Terminal (station)" "#cccccc" "Monospace 16" \
 "Alt + Ctrl + a" "開啟 Terminal (sakura)" "#ffffff" "Monospace 16" \
-"Alt + Shift + t" "開啟 Terminal (konsole)" "#cccccc" "Monospace 16" \
+"Alt + Shift + t" "開啟 Terminal (station)" "#cccccc" "Monospace 16" \
 "Alt + Ctrl + t" "開啟 Terminal (sakura)" "#ffffff" "Monospace 16" \
 "Alt + Ctrl + y" "開啟 DropDown Terminal (yakuake)" "#cccccc" "Monospace 16" \
 "Win + q" "視窗 / 關閉" "#ffffff" "Monospace 16" \

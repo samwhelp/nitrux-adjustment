@@ -21,15 +21,15 @@ yad --width=1000 --height=600 \
 "Alt + Shift + d" "Rofi Show Drun" "#ffffff" "Monospace 16" \
 "Alt + Shift + r" "Rofi Show Run" "#cccccc" "Monospace 16" \
 "Alt + Shift + w" "Rofi Show Window" "#ffffff" "Monospace 16" \
-"Alt + Shift + f" "Launch File Manager (dolphin)" "#cccccc" "Monospace 16" \
+"Alt + Shift + f" "Launch File Manager (index)" "#cccccc" "Monospace 16" \
 "Alt + Shift + g" "Launch File Manager (pcmanfm-qt)" "#ffffff" "Monospace 16" \
-"Alt + Shift + e" "Launch Text Editor (kate)" "#cccccc" "Monospace 16" \
+"Alt + Shift + e" "Launch Text Editor (nota)" "#cccccc" "Monospace 16" \
 "Alt + Shift + b" "Launch Web Browser (firefox)" "#ffffff" "Monospace 16" \
 "Alt + Shift + s" "Launch System Setting (systemsettings)" "#cccccc" "Monospace 16" \
-"Alt + Enter" "Launch Terminal (konsole)" "#ffffff" "Monospace 16" \
-"Alt + Shift + a" "Launch Terminal (konsole)" "#cccccc" "Monospace 16" \
+"Alt + Enter" "Launch Terminal (station)" "#ffffff" "Monospace 16" \
+"Alt + Shift + a" "Launch Terminal (station)" "#cccccc" "Monospace 16" \
 "Alt + Ctrl + a" "Launch Terminal (sakura)" "#ffffff" "Monospace 16" \
-"Alt + Shift + t" "Launch Terminal (konsole)" "#cccccc" "Monospace 16" \
+"Alt + Shift + t" "Launch Terminal (station)" "#cccccc" "Monospace 16" \
 "Alt + Ctrl + t" "Launch Terminal (sakura)" "#ffffff" "Monospace 16" \
 "Alt + Ctrl + y" "Launch DropDown Terminal (yakuake)" "#cccccc" "Monospace 16" \
 "Win + q" "Window Close" "#ffffff" "Monospace 16" \

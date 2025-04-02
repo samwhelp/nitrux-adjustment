@@ -14,15 +14,15 @@
 | `Alt + Shift + d` | 開啟 Rofi Drun |
 | `Alt + Shift + r` | 開啟 Rofi Run |
 | `Alt + Shift + w` | 開啟 Rofi Window |
-| `Alt + Shift + f` | 開啟檔案管理器 (dolphin) |
+| `Alt + Shift + f` | 開啟檔案管理器 (index) |
 | `Alt + Shift + g` | 開啟檔案管理器 (pcmanfm-qt) |
-| `Alt + Shift + e` | 開啟 (kate) |
+| `Alt + Shift + e` | 開啟 (nota) |
 | `Alt + Shift + b` | 開啟網頁瀏覽器 (firefox) |
 | `Alt + Shift + s` | 開啟系統設定 (systemsettings) |
-| `Alt + Enter` | 開啟 Terminal (konsole) |
-| `Alt + Shift + a` | 開啟 Terminal (konsole) |
+| `Alt + Enter` | 開啟 Terminal (station) |
+| `Alt + Shift + a` | 開啟 Terminal (station) |
 | `Alt + Ctrl + a` | 開啟 Terminal (sakura) |
-| `Alt + Shift + t` | 開啟 Terminal (konsole) |
+| `Alt + Shift + t` | 開啟 Terminal (station) |
 | `Alt + Ctrl + t` | 開啟 Terminal (sakura) |
 | `Alt + Ctrl + y` | 開啟 DropDown Terminal (yakuake) |
 | `Win + q` | 視窗 / 關閉 |

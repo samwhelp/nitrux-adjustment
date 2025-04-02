@@ -70,7 +70,7 @@
 
 	$item = array();
 	$item['Keybind'] = "Alt + Shift + f";
-	$item['Action'] = "開啟檔案管理器 (dolphin)";
+	$item['Action'] = "開啟檔案管理器 (index)";
 	$list[] = $item;
 
 	$item = array();
@@ -80,7 +80,7 @@
 
 	$item = array();
 	$item['Keybind'] = "Alt + Shift + e";
-	$item['Action'] = "開啟 (kate)";
+	$item['Action'] = "開啟 (nota)";
 	$list[] = $item;
 
 	$item = array();
@@ -102,12 +102,12 @@
 
 	$item = array();
 	$item['Keybind'] = "Alt + Enter";
-	$item['Action'] = "開啟 Terminal (konsole)";
+	$item['Action'] = "開啟 Terminal (station)";
 	$list[] = $item;
 
 	$item = array();
 	$item['Keybind'] = "Alt + Shift + a";
-	$item['Action'] = "開啟 Terminal (konsole)";
+	$item['Action'] = "開啟 Terminal (station)";
 	$list[] = $item;
 
 	$item = array();
@@ -117,7 +117,7 @@
 
 	$item = array();
 	$item['Keybind'] = "Alt + Shift + t";
-	$item['Action'] = "開啟 Terminal (konsole)";
+	$item['Action'] = "開啟 Terminal (station)";
 	$list[] = $item;
 
 	$item = array();

@@ -70,7 +70,7 @@
 
 	$item = array();
 	$item['Keybind'] = "Alt + Shift + f";
-	$item['Action'] = "Launch File Manager (dolphin)";
+	$item['Action'] = "Launch File Manager (index)";
 	$list[] = $item;
 
 	$item = array();
@@ -80,7 +80,7 @@
 
 	$item = array();
 	$item['Keybind'] = "Alt + Shift + e";
-	$item['Action'] = "Launch Text Editor (kate)";
+	$item['Action'] = "Launch Text Editor (nota)";
 	$list[] = $item;
 
 	$item = array();
@@ -102,12 +102,12 @@
 
 	$item = array();
 	$item['Keybind'] = "Alt + Enter";
-	$item['Action'] = "Launch Terminal (konsole)";
+	$item['Action'] = "Launch Terminal (station)";
 	$list[] = $item;
 
 	$item = array();
 	$item['Keybind'] = "Alt + Shift + a";
-	$item['Action'] = "Launch Terminal (konsole)";
+	$item['Action'] = "Launch Terminal (station)";
 	$list[] = $item;
 
 	$item = array();
@@ -117,7 +117,7 @@
 
 	$item = array();
 	$item['Keybind'] = "Alt + Shift + t";
-	$item['Action'] = "Launch Terminal (konsole)";
+	$item['Action'] = "Launch Terminal (station)";
 	$list[] = $item;
 
 	$item = array();
