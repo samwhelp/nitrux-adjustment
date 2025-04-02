@@ -9,4 +9,4 @@ has_children: true
 
 | Cheatsheet |
 | ----- |
-| [Keybind](https://samwhelp.github.io/nitrux-kde-plasma-adjustment/read/cheatsheet/keybind.html) |
+| [Keybind](https://samwhelp.github.io/nitrux-adjustment/read/cheatsheet/keybind.html) |
