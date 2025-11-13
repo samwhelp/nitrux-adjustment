@@ -7,7 +7,10 @@
 
 ## Donwload
 
-> [download.sh](download.sh)
+* [iso-download.txt](iso-download.txt)
+* [iso-download.sh](iso-download.sh)
+
+
 
 
 > Donwload From SourceForge
