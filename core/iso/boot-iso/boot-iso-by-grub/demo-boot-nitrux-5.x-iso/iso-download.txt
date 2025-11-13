@@ -1,1 +1,2 @@
-https://nxos.org/ftp_up/nitrux-nx-desktop-plasma-5943de83-amd64.iso
+https://nxos.org/ftp_up/nitrux-contemporary-cachy-nvopen-997f8883-amd64.iso
+https://nxos.org/ftp_up/nitrux-contemporary-liquorix-mesa-f4ee9a13-amd64.iso
